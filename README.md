@@ -1,3 +1,1 @@
-# VPMBGI
-
-Vietnamese Public Merged dataset for Broken Glass Insulator
+# VPMBGI :Vietnamese Public Merged dataset of Broken Glass Insulator for UAV inspection of power lines
